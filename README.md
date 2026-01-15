@@ -1,6 +1,6 @@
 # ¡Hola! Soy Adrian Claros 👋
 
-### 🚀 Backend Developer | Estudiante de Ingeniería de Software (4to Año)
+### 🚀 Backend Developer | Estudiante de Ingeniería de Sistemas (4to Año)
 
 **"Backend Developer en formación. Apasionado por C# y la eficiencia del código. Actualmente explorando el despliegue con Docker y la integración de servicios en la nube."**
 
@@ -9,7 +9,7 @@ Me enfoco en el desarrollo de sistemas robustos utilizando el ecosistema de **Mi
 - 🌱 **Aprendiendo:** Arquitectura de microservicios y despliegue avanzado en la nube.
 - ⚙️ **Enfoque:** Aplicación de **TDD (Test Driven Development)** para garantizar software confiable.
 - 💬 **Hablemos sobre:** C#, .NET Core, lógica de programación en C++ y desarrollo web.
-- 📫 **Contacto:** [Tu Correo Aquí] | [Tu LinkedIn Aquí]
+- 📫 **Contacto:** adrianclarosv3@gmail.com 
 
 ---
 
