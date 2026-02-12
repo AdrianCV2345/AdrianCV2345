@@ -1,17 +1,4 @@
-# ¡Hola! Soy Adrian Claros 👋
 
-### 🚀 Backend Developer | Estudiante de Ingeniería de Sistemas (4to Año)
-
-**"Backend Developer en formación. Apasionado por C# y la eficiencia del código. Actualmente explorando el despliegue con Docker y la integración de servicios en la nube."**
-
-Me enfoco en el desarrollo de sistemas robustos utilizando el ecosistema de **Microsoft (.NET)**. Mi prioridad es escribir código limpio y escalable, aplicando metodologías modernas de desarrollo para asegurar la calidad de cada solución.
-
-- 🌱 **Aprendiendo:** Arquitectura de microservicios y despliegue avanzado en la nube.
-- ⚙️ **Enfoque:** Aplicación de **TDD (Test Driven Development)** para garantizar software confiable.
-- 💬 **Hablemos sobre:** C#, .NET Core, lógica de programación en C++ y desarrollo web.
-- 📫 **Contacto:** adrianclarosv3@gmail.com 
-
----
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -23,7 +10,6 @@ Me enfoco en el desarrollo de sistemas robustos utilizando el ecosistema de **Mi
 
 **Frontend & Cloud**
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **DevOps & Metodologías**
